@@ -17,4 +17,5 @@
 
 ## БЛОК-СХЕМА
 
-![Привет!](block diagram.png)
+![Привет!]( blockdiagram.png )
+
